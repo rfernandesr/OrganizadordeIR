@@ -1,4 +1,4 @@
-# Organizador de Imposto de Renda — Excel
+# Organizador de Declaração de Imposto de Renda — Excel
 
 # Sobre o projeto
 Planilha desenvolvida no Microsoft Excel para organizar informações financeiras e documentos necessários para a declaração do Imposto de Renda.
