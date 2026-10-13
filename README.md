@@ -11,7 +11,6 @@ Consolidação automática dos valores.
 
 # Ferramentas utilizadas
 Microsoft Excel
-Fórmulas e funções
-Gráficos e formatação de células
-Objetivo
+
+# Objetivo
 Facilitar a organização e a conferência de informações financeiras, centralizando dados e documentos em uma única planilha.
